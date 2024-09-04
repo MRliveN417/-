@@ -1,2 +1,2 @@
-![スクリーンショット 2024-09-03 175803](https://github.com/user-attachments/assets/137eb979-95e4-4da0-a210-8e244d20ec84)
-[![]('https://github.com/user-attachments/assets/137eb979-95e4-4da0-a210-8e244d20ec84')]('https://youtu.be/LqO2SrBD7YE')
+[![YouTube Video](https://img.youtube.com/vi/8zv4crTuyuE/hqdefault.jpg)](https://www.youtube.com/watch?v=8zv4crTuyuE)
+
